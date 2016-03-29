@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ESJG]]></title>
         <description><![CDATA[ESJG]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://elisabethgawthrop.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 19:08:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 21:57:38 GMT</lastBuildDate>
+        <atom:link href="http://elisabethgawthrop.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b94b6ba4-3d51-46cd-b86b-fe67c5e3b192.jpg">]]></description>
-            <link>undefined696e9265-1ca8-4333-ae17-e262404e07e1/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb209b09ddd8df373c51447a695ef4aafda178d2.jpg" alt="" title="">]]></description>
+            <link>http://elisabethgawthrop.com/696e9265-1ca8-4333-ae17-e262404e07e1/index.html</link>
             <guid isPermaLink="false">696e9265-1ca8-4333-ae17-e262404e07e1</guid>
-            <pubDate>Tue, 29 Mar 2016 19:07:36 GMT</pubDate>
+            <pubDate>Tue, 29 Mar 2016 21:57:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
