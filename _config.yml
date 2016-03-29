@@ -1,7 +1,7 @@
 name: ESJG
 favicon: null
-layout_spectrum: 0.4548501190729439
-typography_spectrum: 0.9908827343024313
+layout_spectrum: 0.80435
+typography_spectrum: 0.62711
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.6057769665494561
+  brandStrength: 0.125
   lightness: 0.37648698850534856
-  saturation: 0.10291189840063453
+  saturation: 0.6875
   rhythmicContrast: 0.48566006147302687
 purpose: []
